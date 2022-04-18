@@ -1,5 +1,6 @@
 # stepik-id-printer (h1) 
 ![alt-text](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/ "")
+
 Это проект для вывода моего персонального идентификатора на образовательной платформе `stepik.org`
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
@@ -40,3 +41,4 @@ int main() {
 | Linkedln  |[ссылка](https://www.google.com)| 3 часа   |
 | WhatsApp  |[ссылка](https://www.google.com)| 30 минут |
 | Telegram  |[ссылка](https://www.google.com)| 5 минут  |
+
