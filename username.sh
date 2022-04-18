@@ -1,0 +1,1 @@
+echo Temirbolat Amanzhol
