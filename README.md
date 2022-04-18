@@ -10,15 +10,15 @@
 ## Портирование (h2)
 Данный проект можно портировать на другие языки программирования.
 На Java
-java
+```java
 class Main {
 	public static void main(String[] args) {
 		System.out.println("777");
 	}
 }
-
+```
 На С++
-c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -27,7 +27,7 @@ int main() {
 	cout << 777 << endl;
 	return 0;
 }
-
+```
 
 > :bulb: Попробуйте реализовать на Python, Go и JavaScript
 
